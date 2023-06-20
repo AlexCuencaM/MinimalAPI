@@ -49,7 +49,7 @@ artifacts/
 
 # VS Code
 .vscode/
-
+temp/
 *_i.c
 *_p.c
 *_i.h
@@ -146,7 +146,7 @@ DocProject/Help/html
 
 # Click-Once directory
 publish/
-
+data/
 # Publish Web Output
 *.[Pp]ublish.xml
 *.azurePubxml
